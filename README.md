@@ -1,4 +1,4 @@
-# Assignment 1: Linux Virtual Machine Installation and Processes Exercise
+# Assignment 1: Linux Virtual Machine Installation and Simple Shell
 
 ***Note:*** *while I will assume you will install Ubuntu on top of VirtualBox, feel free to use other Linux distributions or virtual machine managers. The goal is to demonstrate that you are able to install a virtual machine and build/compile/run C code. All programming assignments will depend on this setup.*
 
